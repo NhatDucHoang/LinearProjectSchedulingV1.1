@@ -1,0 +1,5 @@
+Activity Name,Total Required Work (Man-hour),Crewsize (Man),Minimum Buffer Time (Day),Total Working Unit,Working time per day (hour)
+Formwork installation,800,20,0,6,8
+Rebar placing,960,50,1,6,8
+Concrete pouring,1200,40,3,6,8
+Formwork removal,800,20,2,6,8
